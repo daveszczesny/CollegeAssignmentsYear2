@@ -1,0 +1,17 @@
+Class hierarchy implementation
+Canary <- Bird <- Animal -> Fish -> Shark
+           |                 |
+        Ostrich             Trout
+
+
+Assign overrides to the toString method and equals method
+
+
+
+Assignment description
+
+1) Complete the hierarchy of the animals by addomg Ostrich, Fish, Shark, Trout
+2) Finish the Bird and Canary classes
+3) Add overrides to the toString and equals methods for leaf classes (Canary, Ostrich, Shark, Trout)
+4) Create a main method
+5) Create two methods to test the toString and equals methods

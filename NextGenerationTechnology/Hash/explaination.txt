@@ -1,0 +1,18 @@
+hashF1 method
+----------------------------------------------------
+
+hashF1 takes in a string
+
+hashA int array defined on line 77
+on line 83 we check if the string is less than 1 or more than 64 chars
+and set ret to -1 if it is
+if it isn't
+we add the string to our filler and cut it to 64 chars
+we then loop through them adding to our hashA method
+multiplying each numeric character value by prime numbers
+line 97 to 100 we mod hashA to 255 for an 8bit ASCII
+
+We then let ret equal to the hash values, with each element being
+multiplied by 8bit for ASCII
+
+this gives us our hash

@@ -1,0 +1,31 @@
+Dog
+Does it Bark
+Cat
+Is it a pet
+NULL
+lion
+NULL
+Is it a mammal
+NULL
+lizard
+NULL
+Is it a reptile
+NULL
+insect
+NULL
+Are you thinking of an animal??
+NULL
+t-shirt
+NULL
+Is it a piece of clothing?
+NULL
+table
+NULL
+Are you thinking of an inanimate object?
+NULL
+Casper the ghost
+NULL
+Is it a ghost?
+NULL
+plant
+NULL

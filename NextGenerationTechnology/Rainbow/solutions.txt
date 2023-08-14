@@ -1,0 +1,7 @@
+The solutions I found
+I found two starting values that collided.
+Hash Values that found collisions:
+	977984261343652499
+	895210601874431214
+
+with the following starting values 'Pigtail', and 'aaaaaaaa'
